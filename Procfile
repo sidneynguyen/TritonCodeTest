@@ -1,1 +1,1 @@
-web: ./build/install/TritonCodeServer/bin/TritonCodeServer
+web: ./build/libs/TritonCodeServer-1.0-SNAPSHOT.jar
