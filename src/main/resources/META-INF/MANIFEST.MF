@@ -1,3 +1,5 @@
 Manifest-Version: 1.0
+Class-Path: /Users/sidneynguyen/Projects/TritonCodeTest/build/classes/
+ main/*
 Main-Class: TritonCodeServer
 
