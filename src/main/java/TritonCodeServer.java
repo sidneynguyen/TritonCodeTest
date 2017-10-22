@@ -17,6 +17,7 @@ public class TritonCodeServer {
         System.out.println("Hello, World!");
 
         port(3000);
+        get("/", (req, res) -> "Hello World");
         staticFileLocation("/public");
         //webSocket("/chat", TritonCodeServer.class);
         webSocket("/code", TritonCodeServer.class);
