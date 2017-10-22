@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e514504-fe54-446b-b317-b74bb89c2ae5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-    </list>
+    <list default="true" id="6e514504-fe54-446b-b317-b74bb89c2ae5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,7 +50,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TritonCodeServer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TritonCodeServer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TritonCodeServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="121">
@@ -65,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -90,7 +87,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1508647829000" expanded="true" signature="72651:72668" ph="..." />
+                <marker date="1508647829000" expanded="true" signature="72651:72686" ph="..." />
+                <marker date="1508647829000" expanded="true" signature="72651:72699" ph="..." />
+                <marker date="1508647829000" expanded="true" signature="72651:72714" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -805,7 +807,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1508647829000" expanded="true" signature="72651:72668" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72686" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72699" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72714" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -894,7 +901,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1508647829000" expanded="true" signature="72651:72668" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72686" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72699" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72714" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1135,7 +1147,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1508647829000" expanded="true" signature="72651:72668" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72686" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72699" ph="..." />
+            <marker date="1508647829000" expanded="true" signature="72651:72714" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1165,6 +1182,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TritonCodeServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -1172,14 +1197,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
